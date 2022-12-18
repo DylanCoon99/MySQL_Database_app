@@ -1,0 +1,201 @@
+hid,exterior_color,materials,garage_num,basement
+0,blue,wood,2,crawl space
+1,baige,brick,4,none
+2,green,wood,3,none
+3,blue,wood,3,none
+4,blue,wood,3,none
+5,blue,concrete,5,full but unfinished
+6,green,steel,4,full but unfinished
+7,black,stone,3,none
+8,green,concrete,3,crawl space
+9,white,steel,2,full but unfinished
+10,green,stone,2,crawl space
+11,green,brick,5,full but unfinished
+12,white,concrete,1,none
+13,baige,wood,5,full and finished
+14,blue,steel,4,full and finished
+15,white,stone,5,none
+16,blue,concrete,1,full and finished
+17,blue,concrete,4,crawl space
+18,blue,concrete,2,full and finished
+19,green,stone,2,crawl space
+20,baige,wood,2,none
+21,white,concrete,2,none
+22,black,brick,3,crawl space
+23,white,stone,5,full but unfinished
+24,green,stone,4,full but unfinished
+25,green,stone,2,full but unfinished
+26,white,stone,5,full but unfinished
+27,black,steel,1,none
+28,black,brick,3,full but unfinished
+29,white,steel,4,crawl space
+30,white,brick,1,crawl space
+31,white,brick,1,crawl space
+32,baige,brick,5,full but unfinished
+33,white,concrete,3,crawl space
+34,baige,stone,3,crawl space
+35,green,brick,3,none
+36,white,concrete,2,none
+37,black,concrete,5,full and finished
+38,baige,steel,1,crawl space
+39,white,concrete,5,full and finished
+40,blue,wood,5,full but unfinished
+41,baige,stone,2,full and finished
+42,black,stone,5,full but unfinished
+43,green,stone,5,crawl space
+44,green,brick,5,none
+45,baige,concrete,5,full and finished
+46,green,concrete,2,full and finished
+47,white,wood,3,none
+48,blue,wood,1,crawl space
+49,white,wood,3,full and finished
+50,baige,wood,3,full and finished
+51,blue,stone,1,crawl space
+52,blue,steel,4,none
+53,green,steel,1,full but unfinished
+54,blue,wood,3,none
+55,black,steel,5,full but unfinished
+56,baige,steel,4,crawl space
+57,blue,wood,2,crawl space
+58,black,stone,2,full but unfinished
+59,blue,concrete,4,full but unfinished
+60,white,wood,2,crawl space
+61,green,wood,5,none
+62,baige,concrete,5,full and finished
+63,green,brick,5,crawl space
+64,white,steel,5,full but unfinished
+65,baige,stone,5,crawl space
+66,white,wood,5,none
+67,white,steel,2,none
+68,white,stone,4,crawl space
+69,black,wood,1,full but unfinished
+70,white,stone,1,crawl space
+71,green,wood,3,crawl space
+72,black,wood,2,full but unfinished
+73,white,stone,1,crawl space
+74,baige,stone,1,crawl space
+75,baige,stone,2,none
+76,white,brick,5,crawl space
+77,green,wood,1,none
+78,black,brick,2,none
+79,white,wood,2,full and finished
+80,baige,steel,3,full and finished
+81,white,concrete,2,full and finished
+82,blue,concrete,2,crawl space
+83,blue,concrete,4,full but unfinished
+84,white,brick,5,crawl space
+85,white,stone,5,crawl space
+86,baige,wood,2,full but unfinished
+87,blue,wood,2,full and finished
+88,white,brick,5,crawl space
+89,blue,wood,2,crawl space
+90,black,brick,1,full but unfinished
+91,black,brick,5,crawl space
+92,green,concrete,4,crawl space
+93,baige,stone,2,full and finished
+94,black,wood,5,crawl space
+95,baige,stone,4,none
+96,baige,wood,1,full and finished
+97,white,concrete,2,crawl space
+98,baige,wood,1,crawl space
+99,blue,brick,1,none
+100,baige,brick,2,none
+101,green,steel,4,none
+102,blue,concrete,4,crawl space
+103,green,wood,1,full and finished
+104,white,concrete,2,none
+105,black,concrete,1,none
+106,black,brick,1,full but unfinished
+107,baige,concrete,2,full but unfinished
+108,black,brick,1,crawl space
+109,white,steel,5,crawl space
+110,blue,brick,5,crawl space
+111,blue,wood,4,none
+112,white,brick,3,crawl space
+113,white,brick,1,crawl space
+114,white,steel,5,full but unfinished
+115,black,brick,2,full and finished
+116,black,concrete,2,crawl space
+117,black,stone,3,crawl space
+118,white,wood,1,full but unfinished
+119,green,steel,1,crawl space
+120,black,concrete,5,full but unfinished
+121,green,brick,4,crawl space
+122,blue,steel,1,crawl space
+123,black,steel,5,none
+124,white,wood,4,full and finished
+125,green,brick,5,full and finished
+126,black,stone,4,full but unfinished
+127,black,stone,5,crawl space
+128,baige,wood,5,full and finished
+129,blue,steel,3,crawl space
+130,blue,wood,5,none
+131,baige,concrete,5,full and finished
+132,white,concrete,5,full but unfinished
+133,white,concrete,3,crawl space
+134,black,wood,2,crawl space
+135,black,stone,1,full but unfinished
+136,blue,wood,5,crawl space
+137,baige,brick,3,full but unfinished
+138,white,concrete,4,crawl space
+139,white,wood,4,crawl space
+140,green,concrete,1,crawl space
+141,black,wood,1,crawl space
+142,baige,wood,3,crawl space
+143,baige,wood,5,full but unfinished
+144,baige,concrete,5,none
+145,green,steel,3,crawl space
+146,white,brick,5,full and finished
+147,black,wood,5,full and finished
+148,green,concrete,4,crawl space
+149,baige,wood,2,none
+150,black,concrete,1,full and finished
+151,baige,brick,3,none
+152,green,steel,1,full and finished
+153,baige,concrete,3,full and finished
+154,baige,wood,1,crawl space
+155,baige,brick,4,full but unfinished
+156,black,concrete,2,crawl space
+157,black,wood,4,none
+158,black,brick,5,crawl space
+159,black,brick,4,full and finished
+160,green,stone,3,none
+161,black,wood,2,full and finished
+162,green,brick,5,none
+163,baige,concrete,4,crawl space
+164,baige,concrete,4,none
+165,black,steel,3,full and finished
+166,white,concrete,5,none
+167,blue,brick,2,none
+168,white,wood,5,full but unfinished
+169,black,wood,1,crawl space
+170,baige,concrete,3,full but unfinished
+171,green,wood,1,none
+172,baige,wood,4,full and finished
+173,blue,concrete,1,full but unfinished
+174,white,stone,2,crawl space
+175,white,wood,4,full and finished
+176,black,concrete,3,crawl space
+177,black,stone,1,crawl space
+178,white,steel,3,none
+179,blue,concrete,3,none
+180,blue,concrete,2,crawl space
+181,green,steel,2,full but unfinished
+182,blue,stone,4,full but unfinished
+183,black,steel,2,none
+184,black,concrete,4,full but unfinished
+185,black,steel,5,crawl space
+186,white,concrete,3,full and finished
+187,white,steel,4,full but unfinished
+188,white,steel,3,none
+189,white,concrete,4,crawl space
+190,black,concrete,1,none
+191,blue,brick,4,full and finished
+192,white,brick,3,full but unfinished
+193,blue,brick,2,full but unfinished
+194,blue,brick,3,full but unfinished
+195,blue,steel,4,full and finished
+196,black,stone,1,none
+197,baige,stone,2,crawl space
+198,blue,steel,3,crawl space
+199,blue,stone,1,none
